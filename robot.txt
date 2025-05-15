@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /error404.html
+Disallow: /politique.html
+Disallow: /mentionslegale.html
+
+
+Allow: /
+
+Sitemap: https://re.style.fr/sitemap.xml
